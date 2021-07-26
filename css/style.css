@@ -1,0 +1,142 @@
+body {
+  font-family: 'Montserrat';
+  background-color: #e5e5e5;
+}
+.main_part {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #1e2939;
+  width: 1200px;
+  margin: 40px auto;
+}
+/* main content */
+.main_content {
+  background-color: #ffffff;
+  padding: 100px 90px;
+}
+
+.profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 25px;
+}
+.about-me {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.names {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+.projects,
+.work_experience,
+.education {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.projects_list {
+  padding: 0 0 0 17px;
+  margin-bottom: 50px;
+}
+.dates {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+.text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding: 0 0 0 15px;
+}
+.list {
+  color: black;
+  font-weight: bold;
+}
+.list_link {
+  color: #595959;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 5px;
+}
+.link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.line {
+  color: black;
+}
+.info {
+  color: #ffffff;
+}
+
+/* sidebar */
+
+.cont,
+.tech_skills,
+.soft_skills {
+  margin: 50px 0 0 40px;
+}
+
+/* sidebar contacts*/
+
+.contacts_type {
+  color: #ffffff;
+  margin-right: 7px;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: bold;
+}
+.contacts_link {
+  color: #ffffff;
+  opacity: 0.5;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.points {
+  padding: 0 0 0 17px;
+}
+.item {
+  color: #fb6d3a;
+}
+.item_text {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
